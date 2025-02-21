@@ -1,4 +1,5 @@
--> fun curl command-line tricks that display ASCII animations and memes in your terminal:-
+-> These are some cool command-line tricks to have fun with!
+-> Fun curl command-line tricks that display ASCII animations and memes in your terminal:-
 
 
 Command	 >  Description
@@ -34,5 +35,3 @@ sl  # Watch a steam train animation 🚂
 4. Telnet Star Wars (Watch Star Wars in ASCII)
 sh code:- telnet towel.blinkenlights.nl
 > Streams Star Wars: A New Hope in ASCII art. 🎥🌟
-
-These are some cool command-line tricks to have fun with!
