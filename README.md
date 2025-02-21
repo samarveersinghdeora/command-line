@@ -1,0 +1,1 @@
+"# command-line this repository showcases cool curl commands, hidden Linux gems, and fun terminal Easter eggs. Perfect for developers, CLI enthusiasts, and anyone who loves exploring the command line! ??" 

@@ -1,0 +1,38 @@
+-> fun curl command-line tricks that display ASCII animations and memes in your terminal:-
+
+
+Command	 >  Description
+curl ascii.live/parrot 🦜 >	Displays a dancing parrot animation in ASCII.
+curl ascii.live/rick 🎶	> Shows an ASCII version of Rick Astley’s "Never Gonna Give You Up" (Rickroll).
+curl ascii.live/forrest 🏃‍♂️ >	Plays an ASCII animation of Forrest Gump running.
+curl ascii.live/ninja 🥷 > Displays an ASCII ninja running.
+curl ascii.live/matrix 🟩 > Shows a "Matrix"-style falling green code effect.
+curl ascii.live/shark 🦈 > Displays an ASCII shark animation.
+curl ascii.live/nyan 🌈🐱 > Shows an ASCII version of the Nyan Cat.
+curl ascii.live/cat 🐱 > Displays a looping animation of a cat.
+curl ascii.live/bongo 🐵🥁 > Shows a monkey playing the bongo drums.
+curl ascii.live/tardis 🚀 > Plays a "Doctor Who" TARDIS animation.
+curl ascii.live/rocket 🚀 > Shows an ASCII rocket launch sequence.
+curl ascii.live/mario 🍄 > Displays Mario running in ASCII.
+curl ascii.live/dino 🦖 > Shows an ASCII version of the Google Chrome Dino game.
+
+🚀 This Bonus Fun Commands try in Linux:- 
+
+1. Cowsay (Make a Talking Cow):- 
+sh code:- cowsay "Hello, world!"
+> This displays an ASCII cow saying "Hello, world!" 🐄💬
+
+2. Fortune (Get a Random Fortune Quote)
+sh code:- fortune
+> Generates a random, often humorous, fortune cookie-style message.
+
+3. Sl (Run a Train Animation When You Mistype ls)
+sh code:- sudo apt install sl  # Install it (Linux)
+sl  # Watch a steam train animation 🚂
+> A fun trick for when you mistype ls.
+
+4. Telnet Star Wars (Watch Star Wars in ASCII)
+sh code:- telnet towel.blinkenlights.nl
+> Streams Star Wars: A New Hope in ASCII art. 🎥🌟
+
+These are some cool command-line tricks to have fun with!
